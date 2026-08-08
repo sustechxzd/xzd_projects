@@ -36,11 +36,6 @@ https://github.com/user-attachments/assets/e3b767e0-6741-44e6-957f-1022346ad665
 
 结果表明，依据失败分布补充颜色变化与区域外位置数据，可以显著改善对应测试场景中的成功率。π0 在扩大数据覆盖并增加训练步数后，四类场景的表现均进一步提升。
 
-演示视频：
-
-- [ACT、SmolVLA 与 π0 baseline 对比](<基于 LeRobot 的 SO-101 操作策略后训练与真机鲁棒性评测/图片和附件/lerobotv060-act-smolvla-pi0-baseline_comparition.mp4>)
-- [π0 不同数据与训练设置对比](<基于 LeRobot 的 SO-101 操作策略后训练与真机鲁棒性评测/图片和附件/lerobotv060-pi0_comparition.mp4>)
-
 ## 项目二：基于 RoboTwin 2.0 的双 Piper 协同抓取
 
 https://github.com/user-attachments/assets/9177c394-c411-4d98-9b2e-56836d9a218f
@@ -68,11 +63,6 @@ https://github.com/user-attachments/assets/73faefba-e883-49c7-b60c-50bbaebd4da2
 | π0 LoRA | 50 条 clean / 10k | **32%** | 4% |
 
 增加 clean 数据或延长训练能够改善分布内 Easy 表现，但没有显著改善 Hard 域随机化泛化。代表性失败案例显示，两类策略的主要瓶颈都集中在接近物体阶段，包括视觉定位偏差、接近轨迹不准确、碰撞与抓空。
-
-演示视频：
-
-- [ACT 6k（50 episodes）](<基于RoboTwin 2.0的双Piper操作策略训练与鲁棒性评测/图片和附件/act-6k-8batch_sizes-50episodes.mp4>)
-- [π0 LoRA 10k（50 episodes）](<基于RoboTwin 2.0的双Piper操作策略训练与鲁棒性评测/图片和附件/pi0-lora-10k-32batch_size-50episodes.mp4>)
 
 ## 核心结论
 

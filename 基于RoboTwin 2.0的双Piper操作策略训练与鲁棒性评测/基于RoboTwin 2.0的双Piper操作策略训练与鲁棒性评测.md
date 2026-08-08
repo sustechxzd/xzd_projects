@@ -2,13 +2,13 @@
 
 **ACT 6k 50episodes**
 
-[act\-6k\-8batch\_sizes\-50episodes\.mp4](图片和附件/act-6k-8batch_sizes-50episodes.mp4)
+https://github.com/user-attachments/assets/9177c394-c411-4d98-9b2e-56836d9a218f
 
 
 
 **PI0 10k 50episodes**
 
-[pi0\-lora\-10k\-32batch\_size\-50episodes\.mp4](图片和附件/pi0-lora-10k-32batch_size-50episodes.mp4)
+https://github.com/user-attachments/assets/73faefba-e883-49c7-b60c-50bbaebd4da2
 
 ## 一、项目概述
 
@@ -541,4 +541,3 @@ Hard共100次评测成功4次，表中列出了全部4个成功Episode。这说�
 4. **滑落反映夹持位置问题。** Easy Episode 5中的关键问题不是“未抓住”，而是抓取点和夹持稳定性不足。
 
 5. **跨模型差异只能定性描述。** ACT代表性失败中碰撞占85%，π0样本中碰撞占60%，但人工抽样和样本规模不足以支持显著性结论。
-
