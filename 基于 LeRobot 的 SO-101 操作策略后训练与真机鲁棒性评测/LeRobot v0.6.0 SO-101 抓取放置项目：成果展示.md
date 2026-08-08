@@ -1,8 +1,8 @@
 # LeRobot v0\.6\.0 SO\-101 抓取放置项目：成果展示
 
-[lerobotv060\-act\-smolvla\-pi0\-baseline\_comparition\.mp4](图片和附件/lerobotv060-act-smolvla-pi0-baseline_comparition.mp4)
+https://github.com/user-attachments/assets/596e4f37-faeb-4dce-933c-1a855d3c8581
 
-[lerobotv060\-pi0\_comparition\.mp4](图片和附件/lerobotv060-pi0_comparition.mp4)
+https://github.com/user-attachments/assets/e3b767e0-6741-44e6-957f-1022346ad665
 
 ## 1\. 项目概述
 
@@ -223,4 +223,3 @@
 - 引入新颜色或新物体；
 
 - 在完整记录 intervention 的前提下开展 DAgger 对比实验。
-
