@@ -13,6 +13,10 @@
 
 ## 项目一：基于 LeRobot 的 SO-101 真机抓取放置
 
+https://github.com/user-attachments/assets/596e4f37-faeb-4dce-933c-1a855d3c8581
+
+https://github.com/user-attachments/assets/e3b767e0-6741-44e6-957f-1022346ad665
+
 该项目使用双相机观测与 SO-101 主从机械臂，在真实环境中完成方块抓取放置任务，并在统一协议下比较 ACT、SmolVLA 与 π0。
 
 ### 主要工作
@@ -38,6 +42,10 @@
 - [π0 不同数据与训练设置对比](<基于 LeRobot 的 SO-101 操作策略后训练与真机鲁棒性评测/图片和附件/lerobotv060-pi0_comparition.mp4>)
 
 ## 项目二：基于 RoboTwin 2.0 的双 Piper 协同抓取
+
+https://github.com/user-attachments/assets/9177c394-c411-4d98-9b2e-56836d9a218f
+
+https://github.com/user-attachments/assets/73faefba-e883-49c7-b60c-50bbaebd4da2
 
 该项目基于 RoboTwin 2.0 的 `pick_dual_bottles` 任务，使用官方双 Piper 专家轨迹训练 ACT 与 π0 LoRA，并完成 Easy 与 Hard 环境下的闭环评测。任务属于双臂并行协同抓取，不涉及物体交接。
 
